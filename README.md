@@ -191,13 +191,15 @@ I used Tableau to visualize the data:
 
 
  ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/8922979e-90b8-4276-9e89-7c6b4e3d1a2f)
-Figure 2: Average Calories burned by users on Weekdays.
+ 
+ Figure 2: Average Calories burned by users on Weekdays.
 
 
 
 
  ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/c06ca620-230a-43fd-9fb8-7c7a46db4fcb)
-Figure 3: Average Total Steps burned by users on Weekdays.
+ 
+ Figure 3: Average Total Steps burned by users on Weekdays.
 
 * Users lost most calories on Tuesday, but users were most active on Saturday. Such inconsistency may be affected by the small sample size.
 
