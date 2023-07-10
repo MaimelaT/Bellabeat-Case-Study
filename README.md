@@ -73,3 +73,5 @@ FROM `bellabeat-392006.Bellabeat.dailyActivity`
          DISTINCT Id, ActivityDate
          FROM `bellabeat-392006.Bellabeat.dailyActivity`
          ORDER BY ActivityDate
+
+## 3. 🛠 [Process](#3-process)
