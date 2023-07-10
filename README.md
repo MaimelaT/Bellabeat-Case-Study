@@ -112,23 +112,27 @@ I checked the number of users of *dailyActivity_merged*, *sleepDay_merged*, *wei
          SELECT COUNT(DISTINCT Id) AS Total_Ids
          FROM `bellabeat-392006.Bellabeat.dailyActivity`
 
-*sleepDay_Merged data*
-SELECT
-DISTINCT Id
-FROM `bellabeat-392006.Bellabeat.sleepDay`
 
-*weightInfo_Merged data*
-SELECT
-DISTINCT Id
-FROM `bellabeat-392006.Bellabeat.weightInfo`
+         *sleepDay_Merged data*
+         SELECT
+         DISTINCT Id
+         FROM `bellabeat-392006.Bellabeat.sleepDay`
 
-*heartrate_Merged data*
-SELECT
-DISTINCT Id
-FROM `bellabeat-392006.Bellabeat.heartrate`
 
-*dailyStep_Merged data*
-SELECT
-DISTINCT Id
-FROM `bellabeat-392006.Bellabeat.dailySteps`
+         *weightInfo_Merged data*
+         SELECT
+         DISTINCT Id
+         FROM `bellabeat-392006.Bellabeat.weightInfo`
+
+
+         *heartrate_Merged data*
+         SELECT
+         DISTINCT Id
+         FROM `bellabeat-392006.Bellabeat.heartrate`
+
+
+         *dailyStep_Merged data*
+         SELECT
+         DISTINCT Id
+         FROM `bellabeat-392006.Bellabeat.dailySteps`
 
