@@ -151,3 +151,34 @@ dailySteps = 33
 I used Tableau to analyze the relationship between total steps and calories.
 
 ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/cabcbad9-cd42-4a9e-bbc2-fd9fac7c4679)
+*Figure 1: Analyze the relationship between Total steps and Calories.*
+
+Results show that there is a relation between Calories and Total Steps. The more steps the user takes, the more calories the user burns.
+* According to this data, users track their steps to burn more calories.
+
+
+## Examine the days the Total Steps and Calories features are most active/used.
+With the main objective to determine which products Bellabeat beat uses the most and why it is so, I examined the most used product features, which are the daily activity and daily steps product feature. According to the days users burn more calories, I used Google sheets to rename the ActivityDate column into weekday and then proceeded to SQL to find the average number of steps and Tracker distance.
+
+         -- The weekdays the users are most active
+         SELECT
+         DISTINCT Weekday,
+         AVG(TotalSteps) AS AVG_TotalSteps,
+         AVG(TrackerDistance) AS AVG_TrackerDistance,
+         AVG(Calories) AS AVG_Calories
+         FROM `bellabeat-392006.Bellabeat.dailyActivity`
+         GROUP BY Weekday
+         ORDER BY AVG_TotalSteps DESC
+
+The results show that users are more active on Saturday and less active on Sunday. The relationship between Total steps and Calories is also displayed in this data, although Tuesday is the second highest day in which users are active, it is not the day in which users most active.
+
+* This tells us that the number of calories lost is not merely determined by the Total Steps.
+
+* This data shows that Saturday is the day that Bellabeat users were most active.
+![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/e75bdf42-127f-488f-8dec-581dbf3fa113)
+
+I used Tableau to visualize the data:
+ 
+Figure 2: Average Calories burned by users on Weekdays.
+ 
+Figure 3: Average Total Steps burned by users on Weekdays.
