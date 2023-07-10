@@ -184,6 +184,8 @@ The results show that users are more active on Saturday and less active on Sunda
 
 
 
+
+
 I used Tableau to visualize the data:
 
 
@@ -192,5 +194,28 @@ Figure 2: Average Calories burned by users on Weekdays.
 
 
 
+
  ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/c06ca620-230a-43fd-9fb8-7c7a46db4fcb)
 Figure 3: Average Total Steps burned by users on Weekdays.
+
+* Users lost most calories on Tuesday, but users were most active on Saturday. Such inconsistency may be affected by the small sample size.
+
+I separated the date and time in the hourlyCalories_merged file using Google Sheets and then combined it with the hourlySteps_merged file. I changed the name of the file to “effectiveRelation_merged” file. This will help determine the time users are more active, and the time they lose more calories. To determine the relationship between Time, Calories burnt and Total Steps, I uploaded the effectiveRelation_merged file to Big Query ad used SQL to further analyze data.
+
+         SELECT *
+         FROM `bellabeat-392006.Bellabeat.effectiveRelation`
+         ORDER BY StepTotal DESC
+
+I used Tableau to visualize the relationship between Activity Day and time, Calories, and total steps.
+
+![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/be620a16-8965-43e4-922e-f2977a81f9b5)
+
+The most Calories burned are highlighted by the dark orange color. The graph above shows that users were most active at 17, 18 and 19 hours of the day, which the also the exact time where most users lost more Calories.
+
+
+## 5. 📋 [Share](#5-share)
+
+**CONCLUSION**
+
+It can be clearly seen that active users get more positive results than idle users. This analysis is shown in the relationship between calories and total steps in an hourly basis graph. Users burned twice the calories in the hour they were most active compared to the hours they were least active. On a weekday, users were most active on Saturday and Tuesday and lost most calories on Tuesday and Saturday, respectively.
+There is a clear trend between burning calories and taking more steps daily.
