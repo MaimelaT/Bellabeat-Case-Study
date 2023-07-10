@@ -50,7 +50,7 @@ ENTER ROCCC INFORMATION
 
 After downloading the datasets, I prepared my data by cleaning it in uploading it in Google Sheets. I changed the format of data to 2 decimals, checked for spelling errors. I removed empty columns and values. I sorted the datasets to display data from the highest calories lost.
 
-## **Limitations:**
+**Limitations:**
 
          o Srsen, one of the Stakeholder mentioned that this data might have some limitations and encouraged to consider adding more data to address the limitations.
          
