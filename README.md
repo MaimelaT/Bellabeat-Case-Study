@@ -192,14 +192,14 @@ I used Tableau to visualize the data:
 
  ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/8922979e-90b8-4276-9e89-7c6b4e3d1a2f)
  
- Figure 2: Average Calories burned by users on Weekdays.
+ ### Figure 2: Average Calories burned by users on Weekdays.
 
 
 
 
  ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/c06ca620-230a-43fd-9fb8-7c7a46db4fcb)
  
- Figure 3: Average Total Steps burned by users on Weekdays.
+ ### Figure 3: Average Total Steps burned by users on Weekdays.
 
 * Users lost most calories on Tuesday, but users were most active on Saturday. Such inconsistency may be affected by the small sample size.
 
@@ -213,7 +213,7 @@ I used Tableau to visualize the relationship between Activity Day and time, Calo
 
 ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/be620a16-8965-43e4-922e-f2977a81f9b5)
 
-The most Calories burned are highlighted by the dark orange color. The graph above shows that users were most active at 17, 18 and 19 hours of the day, which the also the exact time where most users lost more Calories.
+### Figure 4:The most Calories burned are highlighted by the dark orange color. The graph above shows that users were most active at 17, 18 and 19 hours of the day, which the also the exact time where most users lost more Calories.
 
 
 ## 5. Share
