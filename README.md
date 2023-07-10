@@ -50,13 +50,13 @@ ENTER ROCCC INFORMATION
 
 After downloading the datasets, I prepared my data by cleaning it in uploading it in Google Sheets. I changed the format of data to 2 decimals, checked for spelling errors. I removed empty columns and values. I sorted the datasets to display data from the highest calories lost.
 
-##Limitations:
+## **Limitations:**
 
-o Srsen, one of the Stakeholder mentioned that this data might have some limitations and encouraged to consider adding more data to address the limitations.
-
-o Data recorded data is between April – May 2016, meaning it is outdated. User behavior may have changed.
-
-o The data is from 30 users, however, Fitbit has approximately 30 million users. Using a population size of 30 million users and only using 30 sample size gives out a Margin of Error = 17.9% which concludes that the given sample size is little to make accurate predictions. 
-
-o I used Google Big Query to count the number of users using SQL and found 33 users instead of 30.
+         o Srsen, one of the Stakeholder mentioned that this data might have some limitations and encouraged to consider adding more data to address the limitations.
+         
+         o Data recorded data is between April – May 2016, meaning it is outdated. User behavior may have changed.
+         
+         o The data is from 30 users, however, Fitbit has approximately 30 million users. Using a population size of 30 million users and only using 30 sample size gives out a Margin of Error = 17.9% which concludes that the given sample size is little to make accurate predictions. 
+         
+         o I used Google Big Query to count the number of users using SQL and found 33 users instead of 30.
 
