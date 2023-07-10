@@ -146,6 +146,7 @@ dailySteps = 33
 * Most users used the dailyActivity and dailySteps features. Therefore, they will be used to further analyze the data.
 * The weightInfo and heartrate feature were used less therefore the data won’t give out accurate predictions.
 
+
 ## Analyze the relationship between Total steps and Calories.
 
 I used Tableau to analyze the relationship between total steps and calories.
@@ -155,6 +156,7 @@ I used Tableau to analyze the relationship between total steps and calories.
 
 Results show that there is a relation between Calories and Total Steps. The more steps the user takes, the more calories the user burns.
 * According to this data, users track their steps to burn more calories.
+
 
 
 ## Examine the days the Total Steps and Calories features are most active/used.
@@ -184,6 +186,7 @@ I used Tableau to visualize the data:
 
  ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/8922979e-90b8-4276-9e89-7c6b4e3d1a2f)
 Figure 2: Average Calories burned by users on Weekdays.
+
 
 
  ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/c06ca620-230a-43fd-9fb8-7c7a46db4fcb)
