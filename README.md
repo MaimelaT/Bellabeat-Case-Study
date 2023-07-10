@@ -136,3 +136,15 @@ I checked the number of users of *dailyActivity_merged*, *sleepDay_merged*, *wei
          DISTINCT Id
          FROM `bellabeat-392006.Bellabeat.dailySteps`
 
+**From the SQL query, the number of users were the following:**
+dailyActivity = 33
+sleepDay = 24
+weightInfo =  8
+heart rate = 14
+dailySteps = 33
+
+* Most users used the dailyActivity and dailySteps features. Therefore, they will be used to further analyze the data.
+* The weightInfo and heartrate feature were used less therefore the data won’t give out accurate predictions.
+
+## Analyze the relationship between Total steps and Calories.
+I used Tableau to analyze the relationship between total steps and calories.
