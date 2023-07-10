@@ -107,10 +107,10 @@ File: *sleepDay_Merged*
 
 I checked the number of users of *dailyActivity_merged*, *sleepDay_merged*, *weightInfo_merged*, *heartRate_merged*, and *dailyStep_merged* using Big Query SQL to determine how many users used each of these Bellabeat product features. I used the following codes:
 
-*dailyActvity_Merged data*
--- Cheking the total number of users
-SELECT COUNT(DISTINCT Id) AS Total_Ids
-FROM `bellabeat-392006.Bellabeat.dailyActivity`
+         *dailyActvity_Merged data*
+         -- Cheking the total number of users
+         SELECT COUNT(DISTINCT Id) AS Total_Ids
+         FROM `bellabeat-392006.Bellabeat.dailyActivity`
 
 *sleepDay_Merged data*
 SELECT
