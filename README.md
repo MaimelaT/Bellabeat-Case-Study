@@ -33,7 +33,7 @@ BELLABEAT is a high-tech company that manufactures health-focused smart products
 
 #
 
-## 2. 💻 [Prepare](#2-prepare)
+## 2. Prepare
 
 + Datasets used is Fitbit Fitness Tracker Data https://www.kaggle.com/datasets/arashnic/fitbit
 
