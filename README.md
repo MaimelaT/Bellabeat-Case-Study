@@ -223,7 +223,7 @@ There is a clear trend between burning calories and taking more steps daily.
 
 ## 6. 🧗‍♀️ [Act](#6-act)
 
-Recommendations to Business
+**Recommendations to Business**
 1.	More users prefer to use daily activity features than night features like sleep and heart rate features.
 2.	Only 8 out of 33 users used the weight info feature, but used the calories feature and steps tracking features.
 −	Which can mean that users prefer to focus on the process than recording their outcome.
