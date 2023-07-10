@@ -84,3 +84,11 @@ For data cleaning, Google sheets and SQL were used to ensure the integrity and c
 * Extra space within cells.
 * Checked for date formats.
 * Checked for nulls and empty spaces.
+
+The following data cleaning was used. *File: dailyActivity_Merged*
+* Checked Id length consistency.
+* Removed empty columns and rows.
+* Rounded all numeric values to 2 decimal places.
+* Removed the VeryActiveDistance, ModeratelyActiveDistance and LightActiveDistance columns. 
+* Focused on the Id, ActivityDate, TotalSteps, TrackerDistance,SedentaryMinutes and Calories columns.
+* Renamed SedentaryMinutes to IdleMinutes.
