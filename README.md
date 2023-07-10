@@ -175,10 +175,16 @@ The results show that users are more active on Saturday and less active on Sunda
 * This tells us that the number of calories lost is not merely determined by the Total Steps.
 
 * This data shows that Saturday is the day that Bellabeat users were most active.
+* 
 ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/e75bdf42-127f-488f-8dec-581dbf3fa113)
 
+
+
 I used Tableau to visualize the data:
+
  ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/8922979e-90b8-4276-9e89-7c6b4e3d1a2f)
 Figure 2: Average Calories burned by users on Weekdays.
+
+
  ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/c06ca620-230a-43fd-9fb8-7c7a46db4fcb)
 Figure 3: Average Total Steps burned by users on Weekdays.
