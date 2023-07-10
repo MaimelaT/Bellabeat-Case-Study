@@ -103,7 +103,7 @@ File: *sleepDay_Merged*
   * The data was clean.
 
 
-## 📊 [Analyze](#4-analyze)
+## 4. 📊 [Analyze](#4-analyze)
 
 I checked the number of users of *dailyActivity_merged*, *sleepDay_merged*, *weightInfo_merged*, *heartRate_merged*, and *dailyStep_merged* using Big Query SQL to determine how many users used each of these Bellabeat product features. I used the following codes:
 
@@ -178,7 +178,7 @@ The results show that users are more active on Saturday and less active on Sunda
 ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/e75bdf42-127f-488f-8dec-581dbf3fa113)
 
 I used Tableau to visualize the data:
- 
+ ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/8922979e-90b8-4276-9e89-7c6b4e3d1a2f)
 Figure 2: Average Calories burned by users on Weekdays.
- 
+ ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/c06ca620-230a-43fd-9fb8-7c7a46db4fcb)
 Figure 3: Average Total Steps burned by users on Weekdays.
