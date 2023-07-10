@@ -77,9 +77,9 @@ FROM `bellabeat-392006.Bellabeat.dailyActivity`
 ## 3. 🛠 [Process](#3-process)
 
 For data cleaning, Google sheets and SQL were used to ensure the integrity and cleanliness of the data.
-         •	Checked Id user length consistency.
-         •	Removed empty columns.
-         •	Rounded the values to 2 decimal places.
+* Checked Id user length consistency.
+* Removed empty columns.
+* Rounded the values to 2 decimal places.
          •	Checked for duplicates.
          •	Extra space within cells.
          •	Checked for date formats.
