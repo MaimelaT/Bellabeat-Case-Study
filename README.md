@@ -85,6 +85,7 @@ For data cleaning, Google sheets and SQL were used to ensure the integrity and c
 * Checked for date formats.
 * Checked for nulls and empty spaces.
 
+
 The following data cleaning was used. *File: dailyActivity_Merged*
 * Checked Id length consistency.
 * Removed empty columns and rows.
