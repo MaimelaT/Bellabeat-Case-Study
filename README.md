@@ -60,3 +60,15 @@ After downloading the datasets, I prepared my data by cleaning it in uploading i
          
          o I used Google Big Query to count the number of users using SQL and found 33 users instead of 30.
 
+
+-- Checking the number of number of users
+SELECT
+DISTINCT Id
+FROM `bellabeat-392006.Bellabeat.dailyActivity`
+
+o	The data was recorded from 2016-04-12 to 2016-05-12, 30 days of data collection.
+-- Checking the time frame of the recording of data
+SELECT
+DISTINCT Id, ActivityDate
+FROM `bellabeat-392006.Bellabeat.dailyActivity`
+ORDER BY ActivityDate
