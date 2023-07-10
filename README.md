@@ -39,6 +39,19 @@ BELLABEAT is a high-tech company that manufactures health-focused smart products
 − Found in Kaggle at CC0: Public Domain, available through Mobius. https://www.kaggle.com/arashnic
 
 − 30 eligible Fitbit users gave consent to the submission of personal tracker data, including minute-level output for physical activity, 
-  heart rate and sleep monitoring.
+         heart rate and sleep monitoring.
 
 −	The data include information about daily activity, steps, and heart rate that can be used to explore user’s habits.
+
+
+ENTER ROCCC INFORMATION
+
+##LIMITATIONS:
+
+After downloading the datasets, I prepared my data by cleaning it in uploading it in Google Sheets. I changed the format of data to 2 decimals, checked for spelling errors. I removed empty columns and values. I sorted the datasets to display data from the highest calories lost.
+Limitations:
+o	Srsen, one of the Stakeholder mentioned that this data might have some limitations and encouraged to consider adding more data to address the limitations.
+o	Data recorded data is between April – May 2016, meaning it is outdated. User behavior may have changed.
+o	The data is from 30 users, however, Fitbit has approximately 30 million users. Using a population size of 30 million users and only using 30 sample size gives out a Margin of Error = 17.9% which concludes that the given sample size is little to make accurate predictions. 
+o	I used Google Big Query to count the number of users using SQL and found 33 users instead of 30.
+
