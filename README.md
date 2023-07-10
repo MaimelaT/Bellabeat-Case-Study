@@ -1,4 +1,4 @@
-#  Bellabeat Fitness Data Analysis 
+#  Bellabeat Case Study 
 My first Data Analysis Project
 
 ##### Author: Tshifhiwa Maimela
