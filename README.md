@@ -30,3 +30,6 @@ BELLABEAT is a high-tech company that manufactures health-focused smart products
 2.	Sando Mur – Mathematician and Bellabeat’s co-founder.
 3.	Bellabeat’s marketing analytics team – Data Analysts. 
 
+#
+
+💻 [Prepare](#2-prepare)
