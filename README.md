@@ -26,6 +26,6 @@ BELLABEAT is a high-tech company that manufactures health-focused smart products
 ## 1. ❓ [Ask](#1-ask)
 💡 **BUSINESS TASK: Analyze smart device usage data to gain insight into how customers use non-Bellabeat smart devices.**
 **Stakeholders:**
-        •	Urska Srsen – Bellabeat’s co-founder and Chief Creative Officer.
-        •	Sando Mur – Mathematician and Bellabeat’s co-founder.
-        •	Bellabeat’s marketing analytics team – Data Analysts.
+        •  Urska Srsen – Bellabeat’s co-founder and Chief Creative Officer.
+        •  Sando Mur – Mathematician and Bellabeat’s co-founder.
+        •  Bellabeat’s marketing analytics team – Data Analysts. 
