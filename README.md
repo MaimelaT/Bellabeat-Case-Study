@@ -80,7 +80,7 @@ For data cleaning, Google sheets and SQL were used to ensure the integrity and c
 * Checked Id user length consistency.
 * Removed empty columns.
 * Rounded the values to 2 decimal places.
-         •	Checked for duplicates.
-         •	Extra space within cells.
-         •	Checked for date formats.
-         •	Checked for nulls and empty spaces.
+* Checked for duplicates.
+* Extra space within cells.
+* Checked for date formats.
+* Checked for nulls and empty spaces.
