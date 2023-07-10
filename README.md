@@ -24,7 +24,7 @@ BELLABEAT is a high-tech company that manufactures health-focused smart products
 3.	How could these trends help influence Bellabeat marketing strategy?
 
 
-## 1. ❓ Ask
+## 1. Ask
 💡 **BUSINESS TASK: Analyze smart device usage data to gain insight into how customers use non-Bellabeat smart devices.**
 **Stakeholders:**
 1.	Urska Srsen – Bellabeat’s co-founder and Chief Creative Officer.
