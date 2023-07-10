@@ -32,4 +32,4 @@ BELLABEAT is a high-tech company that manufactures health-focused smart products
 
 #
 
-💻 [Prepare](#2-prepare)
+## 2. 💻 [Prepare](#2-prepare)
