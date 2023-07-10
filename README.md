@@ -33,3 +33,8 @@ BELLABEAT is a high-tech company that manufactures health-focused smart products
 #
 
 ## 2. 💻 [Prepare](#2-prepare)
+
+−	Datasets used is Fitbit Fitness Tracker Data https://www.kaggle.com/datasets/arashnic/fitbit
+−	Found in Kaggle at CC0: Public Domain, available through Mobius.
+−	30 eligible Fitbit users gave consent to the submission of personal tracker data, including minute-level output for physical activity, heart rate and sleep monitoring.
+−	The data include information about daily activity, steps, and heart rate that can be used to explore user’s habits.
