@@ -1,4 +1,4 @@
-     #Bellabeat-Case-Study
+#Bellabeat-Case-Study
 My first Data Analysis Project
 
 ##### Author: Tshifhiwa Maimela
