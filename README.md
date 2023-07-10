@@ -220,3 +220,28 @@ The most Calories burned are highlighted by the dark orange color. The graph abo
 
 It can be clearly seen that active users get more positive results than idle users. This analysis is shown in the relationship between calories and total steps in an hourly basis graph. Users burned twice the calories in the hour they were most active compared to the hours they were least active. On a weekday, users were most active on Saturday and Tuesday and lost most calories on Tuesday and Saturday, respectively.
 There is a clear trend between burning calories and taking more steps daily.
+
+## 6. 🧗‍♀️ [Act](#6-act)
+
+Recommendations to Business
+1.	More users prefer to use daily activity features than night features like sleep and heart rate features.
+2.	Only 8 out of 33 users used the weight info feature, but used the calories feature and steps tracking features.
+−	Which can mean that users prefer to focus on the process than recording their outcome.
+3.	Bellabeat can advertise more features that focus on the process, their users want to be encouraged and reminded daily about being active.
+4.	Bellabeat can insert a function in the App and in the Leaf/Time to notify users to have a certain number of steps in an hourly basis that will estimate the number of Calories they can use in a daily basis.
+−	This can also have users set their daily and weekly goals. This function can remind then hourly to move around regularly.
+5.	Bellabeat can also target working females and have Marketing campaigns on how Bellabeat products are a fit to use for after hours.
+−	Bellabeat is an excellent product to be used on weekdays and during weekends.
+6.	Lastly, Bellabeat has proven to work and has grown over the years. The service the products offer can also be utilizes by men and therefore, it will be an exciting time to target males. Bellabeat products can be advertised as unisexual because good health does not only specify to 1 gender but to all human beings.
+7.	Total steps confirmed that movement result in burning more calories, so the Bellabeat app, Leaf tracker, the watch and Spring bottle can be used in the gym. And from the analysis most users are active between 17 – 19 hours of the day, a time where people are going home, and others are going to the gym. 
+−	Bellabeat membership can also include a partnership with a gym membership.
+8.	Bellabeat membership can be sold with a gym membership including all 4 Bellabeat products (Bellabeat app, Leaf tracker, the watch and Spring bottle). Therefore, all products are being sold and according to the insights, users will benefit greatly because most of their users are more active on Saturday and Tuesday, between 17 – 19 hours a day.
+9.	And users use Bellabeat products that focus more on the process than on the results, this can be proved because only 8 users used the weight info and sleep day feature was used by 14. 
+
+Marketing Recommendations
+
+Bellabeat users are more focused on putting in the work, tracking their activity which is great to introduce gym memberships including all 4 Bellabeat products (Bellabeat app, Leaf tracker, the watch and Spring bottle) as a selling package. The second-highest number of active users was between 12 and 14 hours, which is normally lunch time on a weekday. Targeting 9-5 professional working women will also be a great business move and using a marketing strategy to highlight the success of 17-19 hours users. Bellabeat can also target Males since keeping healthy does not only apply to the gender of women only. 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
