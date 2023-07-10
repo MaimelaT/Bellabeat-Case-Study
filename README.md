@@ -93,3 +93,11 @@ The following data cleaning was used. *File: dailyActivity_Merged*
 * Removed the VeryActiveDistance, ModeratelyActiveDistance and LightActiveDistance columns. 
 * Focused on the Id, ActivityDate, TotalSteps, TrackerDistance,SedentaryMinutes and Calories columns.
 * Renamed SedentaryMinutes to IdleMinutes.
+
+File: weightLogInfo_Merged
+  * Used the LEFT & RIGHT Function to separate the Date and Time.
+  * Rounded the WeightKg numerical values to 2 decimal places.
+
+File: sleepDay_Merged
+Separated the Date and Time Function.
+The data was clean.
