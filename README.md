@@ -1,5 +1,4 @@
-# ![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/8e06cb5b-3168-4e58-915b-323bc791750b)
-Bellabeat-Case-Study
+     #Bellabeat-Case-Study
 My first Data Analysis Project
 
 ##### Author: Tshifhiwa Maimela
