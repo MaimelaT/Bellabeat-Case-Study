@@ -75,7 +75,7 @@ FROM `bellabeat-392006.Bellabeat.dailyActivity`
          FROM `bellabeat-392006.Bellabeat.dailyActivity`
          ORDER BY ActivityDate
 
-## 3. 🛠 [Process](#3-process)
+## 3. Process
 
 For data cleaning, Google sheets and SQL were used to ensure the integrity and cleanliness of the data.
 * Checked Id user length consistency.
@@ -105,7 +105,7 @@ File: *sleepDay_Merged*
 
 
 
-## 4. 📊 [Analyze](#4-analyze)
+## 4. Analyze
 
 I checked the number of users of *dailyActivity_merged*, *sleepDay_merged*, *weightInfo_merged*, *heartRate_merged*, and *dailyStep_merged* using Big Query SQL to determine how many users used each of these Bellabeat product features. I used the following codes:
 
@@ -214,14 +214,14 @@ I used Tableau to visualize the relationship between Activity Day and time, Calo
 The most Calories burned are highlighted by the dark orange color. The graph above shows that users were most active at 17, 18 and 19 hours of the day, which the also the exact time where most users lost more Calories.
 
 
-## 5. 📋 [Share](#5-share)
+## 5. Share
 
 **CONCLUSION**
 
 It can be clearly seen that active users get more positive results than idle users. This analysis is shown in the relationship between calories and total steps in an hourly basis graph. Users burned twice the calories in the hour they were most active compared to the hours they were least active. On a weekday, users were most active on Saturday and Tuesday and lost most calories on Tuesday and Saturday, respectively.
 There is a clear trend between burning calories and taking more steps daily.
 
-## 6. 🧗‍♀️ [Act](#6-act)
+## 6. Act
 
 **Recommendations to Business**
 1.	More users prefer to use daily activity features than night features like sleep and heart rate features.
