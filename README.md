@@ -66,9 +66,10 @@ SELECT
 DISTINCT Id
 FROM `bellabeat-392006.Bellabeat.dailyActivity`
 
-o	The data was recorded from 2016-04-12 to 2016-05-12, 30 days of data collection.
--- Checking the time frame of the recording of data
-SELECT
-DISTINCT Id, ActivityDate
-FROM `bellabeat-392006.Bellabeat.dailyActivity`
-ORDER BY ActivityDate
+         o The data was recorded from 2016-04-12 to 2016-05-12, 30 days of data collection.
+
+         -- Checking the time frame of the recording of data
+         SELECT
+         DISTINCT Id, ActivityDate
+         FROM `bellabeat-392006.Bellabeat.dailyActivity`
+         ORDER BY ActivityDate
