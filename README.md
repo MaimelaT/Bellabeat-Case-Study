@@ -147,4 +147,7 @@ dailySteps = 33
 * The weightInfo and heartrate feature were used less therefore the data won’t give out accurate predictions.
 
 ## Analyze the relationship between Total steps and Calories.
+
 I used Tableau to analyze the relationship between total steps and calories.
+
+![image](https://github.com/MaimelaT/Bellabeat-Case-Study/assets/139053059/cabcbad9-cd42-4a9e-bbc2-fd9fac7c4679)
