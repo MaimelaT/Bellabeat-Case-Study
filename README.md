@@ -5,7 +5,7 @@ My first Data Analysis Project
 
 ##### Date: 10 July 2023
 
-#
+
 
 _The case study follows the six step data analysis process:_
 
